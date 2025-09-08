@@ -131,7 +131,7 @@ namespace DogTrack.Service.DogTrackService
             {
                 WalletOperation(ticket.UserId, ticket.BetAmount, true);
 
-                await _dataAccess.InvalidateTicket(ticket.TicketId);
+                await _dataAccess.UpdateTicket(ticket.TicketId, TicketStatus.Rejected);
             }
 
             return true;

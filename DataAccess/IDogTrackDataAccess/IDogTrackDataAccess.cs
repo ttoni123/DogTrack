@@ -23,8 +23,6 @@ namespace DogTrack.DataAccess.IDogTrackDataAccess
 
         Task<List<InvalidTicket>> GetInvalidTickets();
 
-        Task<bool> InvalidateTicket(int ticketId);
-
         Task<DateTime?> GetNextRaceStart();
 
         Task<List<Race>> GetUnresolvedRaces();

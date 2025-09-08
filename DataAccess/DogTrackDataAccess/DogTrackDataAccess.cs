@@ -218,19 +218,6 @@ namespace DogTrack.DataAccess.DogTrackDataAccess
             return tickets;
         }
 
-        public async Task<bool> InvalidateTicket(int ticketId)
-        {
-            var entityTicket = new Entities.Ticket
-            {
-                TicketId = ticketId,
-                TicketStatusId = (int) Models.Enums.TicketStatus.Rejected
-            };
-
-            _dbContext.Entry(entityTicket).Property(x => x.TicketStatusId).IsModified = true;
-
-            return await _dbContext.SaveChangesAsync() > 0;
-        }
-
         public async Task<DateTime?> GetNextRaceStart() 
         {
             _logger.Information("Get next unresolved race start time");
