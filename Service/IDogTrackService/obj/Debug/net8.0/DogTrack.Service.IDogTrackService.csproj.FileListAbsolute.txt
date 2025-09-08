@@ -1,0 +1,15 @@
+C:\Projects\XS\DogTrack\Service\IDogTrackService\bin\Debug\net8.0\DogTrack.Service.IDogTrackService.deps.json
+C:\Projects\XS\DogTrack\Service\IDogTrackService\bin\Debug\net8.0\DogTrack.Service.IDogTrackService.dll
+C:\Projects\XS\DogTrack\Service\IDogTrackService\bin\Debug\net8.0\DogTrack.Service.IDogTrackService.pdb
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.AssemblyInfoInputs.cache
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.AssemblyInfo.cs
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.csproj.CoreCompileInputs.cache
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.dll
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\refint\DogTrack.Service.IDogTrackService.dll
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.pdb
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\ref\DogTrack.Service.IDogTrackService.dll
+C:\Projects\XS\DogTrack\Service\IDogTrackService\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.dll
+C:\Projects\XS\DogTrack\Service\IDogTrackService\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.pdb
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.Service.IDogTrackService.csproj.AssemblyReference.cache
+C:\Projects\XS\DogTrack\Service\IDogTrackService\obj\Debug\net8.0\DogTrack.2B9A0932.Up2Date

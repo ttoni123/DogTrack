@@ -1,0 +1,15 @@
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.deps.json
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.pdb
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.AssemblyInfoInputs.cache
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.AssemblyInfo.cs
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\refint\DogTrack.DataAccess.IDogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.pdb
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\ref\DogTrack.DataAccess.IDogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.dll
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.pdb
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.csproj.AssemblyReference.cache
+C:\Projects\XS\DogTrack\DataAccess\IDogTrackDataAccess\obj\Debug\net8.0\DogTrack.E9828EBD.Up2Date

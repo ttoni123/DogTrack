@@ -1,0 +1,12 @@
+C:\Projects\XS\DogTrack\Models\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.deps.json
+C:\Projects\XS\DogTrack\Models\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.dll
+C:\Projects\XS\DogTrack\Models\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.pdb
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.csproj.AssemblyReference.cache
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.AssemblyInfoInputs.cache
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.AssemblyInfo.cs
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.csproj.CoreCompileInputs.cache
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.dll
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\refint\DogTrack.Models.DogTrackModels.dll
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\DogTrack.Models.DogTrackModels.pdb
+C:\Projects\XS\DogTrack\Models\obj\Debug\net8.0\ref\DogTrack.Models.DogTrackModels.dll

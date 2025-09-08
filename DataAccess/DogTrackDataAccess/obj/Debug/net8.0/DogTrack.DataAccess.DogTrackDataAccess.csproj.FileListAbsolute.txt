@@ -1,0 +1,17 @@
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.deps.json
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.pdb
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.DataAccess.IDogTrackDataAccess.pdb
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.csproj.AssemblyReference.cache
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.AssemblyInfoInputs.cache
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.AssemblyInfo.cs
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.csproj.CoreCompileInputs.cache
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.53D25461.Up2Date
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\refint\DogTrack.DataAccess.DogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\DogTrack.DataAccess.DogTrackDataAccess.pdb
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\obj\Debug\net8.0\ref\DogTrack.DataAccess.DogTrackDataAccess.dll
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.dll
+C:\Projects\XS\DogTrack\DataAccess\DogTrackDataAccess\bin\Debug\net8.0\DogTrack.Models.DogTrackModels.pdb

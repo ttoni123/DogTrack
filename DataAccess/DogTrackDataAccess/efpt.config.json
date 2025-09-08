@@ -1,0 +1,106 @@
+﻿{
+   "CodeGenerationMode": 4,
+   "ContextClassName": "XSdbContext",
+   "ContextNamespace": null,
+   "FilterSchemas": false,
+   "IncludeConnectionString": false,
+   "MinimumProductVersion": "2.6.1080",
+   "ModelNamespace": null,
+   "OutputContextPath": null,
+   "OutputPath": "Entities",
+   "PreserveCasingWithRegex": true,
+   "ProjectRootNamespace": "DogTrack.DataAccess.DogTrackDataAccess",
+   "Schemas": null,
+   "SelectedHandlebarsLanguage": 2,
+   "SelectedToBeGenerated": 0,
+   "T4TemplatePath": null,
+   "Tables": [
+      {
+         "Name": "[BET].[AvailableBet]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[BET].[BetType]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[BET].[Ticket]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[BET].[TicketBet]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[BET].[TicketStatus]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Customer].[Account]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Race].[Participant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Race].[Race]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[Race].[RaceParticipant]",
+         "ObjectType": 0
+      },
+      {
+         "Name": "[BET].[InvalidTIckets]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[BET].[WonTickets]",
+         "ObjectType": 3
+      },
+      {
+         "Name": "[BET].[UpdateAvailableBetSuccessStatus]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[BET].[UpdateLostTickets]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[InsertRaces]",
+         "ObjectType": 1
+      },
+      {
+         "Name": "[dbo].[ValidateTickets]",
+         "ObjectType": 1
+      }
+   ],
+   "UiHint": null,
+   "UncountableWords": null,
+   "UseAsyncStoredProcedureCalls": true,
+   "UseBoolPropertiesWithoutDefaultSql": false,
+   "UseDatabaseNames": false,
+   "UseDatabaseNamesForRoutines": true,
+   "UseDateOnlyTimeOnly": true,
+   "UseDbContextSplitting": false,
+   "UseDecimalDataAnnotationForSprocResult": true,
+   "UseFluentApiOnly": true,
+   "UseHandleBars": false,
+   "UseHierarchyId": false,
+   "UseInflector": true,
+   "UseInternalAccessModifiersForSprocsAndFunctions": false,
+   "UseLegacyPluralizer": false,
+   "UseManyToManyEntity": false,
+   "UseNoDefaultConstructor": false,
+   "UseNoNavigations": false,
+   "UseNoObjectFilter": false,
+   "UseNodaTime": false,
+   "UseNullableReferences": false,
+   "UsePrefixNavigationNaming": false,
+   "UseSchemaFolders": false,
+   "UseSchemaNamespaces": false,
+   "UseSpatial": false,
+   "UseT4": false,
+   "UseT4Split": false
+}
