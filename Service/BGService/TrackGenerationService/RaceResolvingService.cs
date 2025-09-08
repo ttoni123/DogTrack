@@ -32,12 +32,14 @@ public class RaceResolvingService : BackgroundService
             }
 
             var resolveTime = nextRace.Value.AddSeconds(-5);
-            var delay = resolveTime - DateTime.UtcNow;
+            var delay = resolveTime - DateTime.Now;
+
+            Console.WriteLine(delay);
 
             if (delay > TimeSpan.Zero)
             {
                 Console.WriteLine($"Next race starts at {nextRace}. Will resolve in {delay.TotalSeconds:F0}s.");
-                await Task.Delay(delay, stoppingToken);
+                await Task.Delay(TimeSpan.FromSeconds(delay.TotalSeconds), stoppingToken);
             }
             else
             {

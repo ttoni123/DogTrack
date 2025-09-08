@@ -259,7 +259,7 @@ namespace DogTrack.DataAccess.DogTrackDataAccess
                 .Where
                 (
                     g =>
-                        g.RaceStart < DateTime.Now.AddSeconds(-5)
+                        g.RaceStart < DateTime.Now.AddSeconds(5)
                         &&
                         g.RaceWinnerId == null
                 );
